@@ -4,8 +4,9 @@
   <_Project>
     <ProjectName val="MatrixCare"/>
     <VCProjectID val="0"/>
-    <VCActive val="N"/>
+    <VCActive val="Y"/>
     <WorkOffline val="N"/>
+    <VCProjectName val="."/>
     <SourceDirectory val="Source"/>
     <ExportsDirectory val="Exports"/>
     <GUID val="{3C7659AB-46CF-495D-988D-E264E0A98ABE}"/>
