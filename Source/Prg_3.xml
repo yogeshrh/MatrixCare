@@ -27,35 +27,35 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="736786" _time="41128" date="02/04/2018" time="11:25:28"/>
+          <LastModified _date="736786" _time="45393" date="02/04/2018" time="12:36:33"/>
         </Header>
         <ItemIsn val="3"/>
         <Resource>
           <Columns>
-            <Column id="1" name="a">
+            <Column id="1" name="a2">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_ALPHA" id="1"/>
-                <Picture id="157" valUnicode="10"/>
+                <Picture id="157" valUnicode="5"/>
                 <StoredAs id="173" val="1"/>
-                <Size id="174" val="10"/>
+                <Size id="174" val="5"/>
                 <_Flip id="194"/>
               </PropertyList>
             </Column>
-            <Column id="2" name="b">
+            <Column id="2" name="b2">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_ALPHA" id="1"/>
-                <Picture id="157" valUnicode="10"/>
+                <Picture id="157" valUnicode="5"/>
                 <StoredAs id="173" val="1"/>
-                <Size id="174" val="10"/>
+                <Size id="174" val="5"/>
                 <_Flip id="194"/>
               </PropertyList>
             </Column>
-            <Column id="3" name="c">
+            <Column id="3" name="c2">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_ALPHA" id="1"/>
-                <Picture id="157" valUnicode="10"/>
+                <Picture id="157" valUnicode="5"/>
                 <StoredAs id="173" val="1"/>
-                <Size id="174" val="10"/>
+                <Size id="174" val="5"/>
                 <_Flip id="194"/>
               </PropertyList>
             </Column>
