@@ -27,7 +27,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="736786" _time="40237" date="02/04/2018" time="11:10:37"/>
+          <LastModified _date="736786" _time="44577" date="02/04/2018" time="12:22:57"/>
         </Header>
         <ItemIsn val="3"/>
         <Resource>
@@ -35,26 +35,26 @@
             <Column id="1" name="a">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_ALPHA" id="1"/>
-                <Picture id="157" valUnicode="10"/>
+                <Picture id="157" valUnicode="20"/>
                 <StoredAs id="173" val="1"/>
-                <Size id="174" val="10"/>
+                <Size id="174" val="20"/>
                 <_Flip id="194"/>
               </PropertyList>
             </Column>
             <Column id="2" name="b">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_UNICODE" id="1"/>
-                <Picture id="157" valUnicode="10"/>
-                <Size id="174" val="20"/>
+                <Picture id="157" valUnicode="20"/>
+                <Size id="174" val="40"/>
                 <_FieldStyle id="276" val="1"/>
               </PropertyList>
             </Column>
             <Column id="3" name="c">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_NUMERIC" id="1"/>
-                <Picture id="157" valUnicode="10"/>
+                <Picture id="157" valUnicode="20"/>
                 <_Dec id="181"/>
-                <_Whole id="182" val="10"/>
+                <_Whole id="182" val="20"/>
                 <_Negative id="192"/>
                 <_FieldStyle id="276" val="1"/>
               </PropertyList>
